@@ -1,10 +1,10 @@
 ![avatar](/images/cv_avatar.jpg 'cv-avatar')
-#DENIS AGULOV
-##CONTACT
+# DENIS AGULOV
+## CONTACT
 discord: aguloff
-##SKILLS
+## SKILLS
 Basic level html, css, js
-##CODE EXAMPLES
+## CODE EXAMPLES
 ```
 function deleteNth(arr,n){
   const obj = {};
@@ -14,9 +14,9 @@ function deleteNth(arr,n){
   },[]);
 }
 ```
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 [CV](https://aguloff.github.io/rsschool-cv/ 'my first CV study project')
-##EDUCATION
+## EDUCATION
 Skillbox
-##LANGUAGES
+## LANGUAGES
 English - A0
