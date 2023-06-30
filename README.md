@@ -1,2 +1,2 @@
 # rsschool-cv
-https://aguloff.github.io/rsschool-cv/cv
+[My CV](https://aguloff.github.io/rsschool-cv/cv 'link to my cv')
