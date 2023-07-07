@@ -1,4 +1,3 @@
-![avatar](/images/cv_avatar.jpg 'cv-avatar')
 # DENIS AGULOV
 ## CONTACT
 discord: aguloff
