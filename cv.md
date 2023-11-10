@@ -6,6 +6,7 @@ discord: aguloff
 - html
 - css
 - js
+
 ## CODE EXAMPLES
 ```
 function deleteNth(arr,n){
