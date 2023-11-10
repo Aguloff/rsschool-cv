@@ -2,7 +2,10 @@
 ## CONTACT
 discord: aguloff
 ## SKILLS
-Basic level html, css, js
+**Basic level:**
+- html
+- css
+- js
 ## CODE EXAMPLES
 ```
 function deleteNth(arr,n){
@@ -16,6 +19,7 @@ function deleteNth(arr,n){
 ## WORK EXPERIENCE
 [CV](https://aguloff.github.io/rsschool-cv/ 'my first CV study project')
 ## EDUCATION
+RS School: JS / FRONT-END. STAGE 0
 Skillbox
 ## LANGUAGES
 English - A0
