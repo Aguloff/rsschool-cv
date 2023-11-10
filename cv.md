@@ -20,6 +20,7 @@ function deleteNth(arr,n){
 [CV](https://aguloff.github.io/rsschool-cv/ 'my first CV study project')
 ## EDUCATION
 RS School: JS / FRONT-END. STAGE 0
+
 Skillbox
 ## LANGUAGES
 English - A0
