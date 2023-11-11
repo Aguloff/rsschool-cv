@@ -111,7 +111,7 @@
                     <code>
 function deleteNth(arr,n){
     const obj = {};
-    return arr.reduce((newArr, num) => {
+    return arr.reduce((newArr, num) =&gt; {
         obj[num] = (obj[num] || 0) + 1;
         return obj[num] &lt;= n ? newArr.concat([num]) : newArr;
     },[]);
